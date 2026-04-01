@@ -145,7 +145,7 @@ cd ml-model-optimization-churn
 pip install -r requirements.txt
 ```
 
-### 2. Add Telco dataset
+### 2. Add Telco dataset and other two data sets 
 
 Download `WA_Fn-UseC_-Telco-Customer-Churn.csv` from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and place it in `/data/`.
 
@@ -176,8 +176,9 @@ xlrd>=2.0.1
 | Member | Responsibility |
 |---|---|
 | Tharun Reddy Marreddy | Model development & hyperparameter tuning |
-| Bré Anna Kotary | Data preprocessing & feature engineering |
-
+| Bré Anna Kotary | Data preprocessing |
+| Srinija Chowdary Garapati |Feature Engineering & EDA |
+| Akshaya Paila | Descriptive Statistics | Visualizations|
 **Course:** DTSC 5082 — Seminar in Research & Research Methods | University of North Texas
 
 ---
